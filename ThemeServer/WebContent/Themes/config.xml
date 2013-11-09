@@ -1,0 +1,50 @@
+<!-- name=theme name -->
+<ressource>
+
+	<theme name="Theme1" path="http://10.1.1.55:8080/ThemeServer/Themes/Theme1"
+		thumbnail_mainscreen="thumbnail_mainscreen.jpg" thumbnail_wallpaper="thumbnail_mainscreen.jpg"
+		mainscreen="mainscreen.jpg" wallpaper="wallpaper.jpg" package="com.gau.go.launcherex.apk" />
+
+	<theme name="Theme2" path="http://10.1.1.55:8080/ThemeServer/Themes/Theme2"
+		thumbnail_mainscreen="thumbnail_mainscreen.jpg" 
+		thumbnail_wallpaper="thumbnail_mainscreen.jpg"
+		mainscreen="mainscreen.jpg" wallpaper="wallpaper.jpg" />
+
+	<theme name="Theme3" path="http://10.1.1.55:8080/ThemeServer/Themes/Theme3"
+		thumbnail_mainscreen="thumbnail_mainscreen.jpg" thumbnail_wallpaper="thumbnail_mainscreen.jpg"
+		mainscreen="mainscreen.jpg" wallpaper="wallpaper.jpg" />
+	<theme name="Theme4" path="http://10.1.1.55:8080/ThemeServer/Themes/Theme4"
+		thumbnail_mainscreen="thumbnail_mainscreen.jpg" thumbnail_wallpaper="thumbnail_mainscreen.jpg"
+		mainscreen="mainscreen.jpg" wallpaper="wallpaper.jpg" />
+	<theme name="Theme5" path="http://10.1.1.55:8080/ThemeServer/Themes/Theme5"
+		thumbnail_mainscreen="thumbnail_mainscreen.jpg" thumbnail_wallpaper="thumbnail_mainscreen.jpg"
+		mainscreen="mainscreen.jpg" wallpaper="wallpaper.jpg" />
+	<theme name="Theme6" path="http://10.1.1.55:8080/ThemeServer/Themes/Theme6"
+		thumbnail_mainscreen="thumbnail_mainscreen.jpg" thumbnail_wallpaper="thumbnail_mainscreen.jpg"
+		mainscreen="mainscreen.jpg" wallpaper="wallpaper.jpg" />
+	<theme name="Theme7" path="http://10.1.1.55:8080/ThemeServer/Themes/Theme7"
+		thumbnail_mainscreen="thumbnail_mainscreen.jpg" thumbnail_wallpaper="thumbnail_mainscreen.jpg"
+		mainscreen="mainscreen.jpg" wallpaper="wallpaper.jpg" />
+
+	<theme name="Theme1" path="http://10.1.1.55:8080/ThemeServer/Themes/Theme1"
+		thumbnail_mainscreen="thumbnail_mainscreen.jpg" thumbnail_wallpaper="thumbnail_mainscreen.jpg"
+		mainscreen="mainscreen.jpg" wallpaper="wallpaper.jpg" />
+	<theme name="Theme1" path="http://10.1.1.55:8080/ThemeServer/Themes/Theme1"
+		thumbnail_mainscreen="thumbnail_mainscreen.jpg" thumbnail_wallpaper="thumbnail_mainscreen.jpg"
+		mainscreen="mainscreen.jpg" wallpaper="wallpaper.jpg" />
+	<theme name="Theme1" path="http://10.1.1.55:8080/ThemeServer/Themes/Theme1"
+		thumbnail_mainscreen="thumbnail_mainscreen.jpg" thumbnail_wallpaper="thumbnail_mainscreen.jpg"
+		mainscreen="mainscreen.jpg" wallpaper="wallpaper.jpg" />
+	<theme name="Theme1" path="http://10.1.1.55:8080/ThemeServer/Themes/Theme1"
+		thumbnail_mainscreen="thumbnail_mainscreen.jpg" thumbnail_wallpaper="thumbnail_mainscreen.jpg"
+		mainscreen="mainscreen.jpg" wallpaper="wallpaper.jpg" />
+	<theme name="Theme1" path="http://10.1.1.55:8080/ThemeServer/Themes/Theme1"
+		thumbnail_mainscreen="thumbnail_mainscreen.jpg" thumbnail_wallpaper="thumbnail_mainscreen.jpg"
+		mainscreen="mainscreen.jpg" wallpaper="wallpaper.jpg" />
+	<theme name="Theme1" path="http://10.1.1.55:8080/ThemeServer/Themes/Theme1"
+		thumbnail_mainscreen="thumbnail_mainscreen.jpg" thumbnail_wallpaper="thumbnail_mainscreen.jpg"
+		mainscreen="mainscreen.jpg" wallpaper="wallpaper.jpg" />
+	<theme name="Theme1" path="http://10.1.1.55:8080/ThemeServer/Themes/Theme1"
+		thumbnail_mainscreen="thumbnail_mainscreen.jpg" thumbnail_wallpaper="thumbnail_mainscreen.jpg"
+		mainscreen="mainscreen.jpg" wallpaper="wallpaper.jpg" />
+</ressource>
